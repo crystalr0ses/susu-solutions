@@ -1,0 +1,16 @@
+EMAIL, NAME, SURNAME, PHONE, CITY
+, Ivan, Ivanov, 89080135224, Chelyabinsk
+, Oleg, Ivanov, 89027568441, омск
+, Anna, Petrova, 89151234567, Moscow
+, Sergei, Smirnov, 89037654321, Saint Petersburg
+, екатерина, Volkova, 89501234567, Novosibirsk
+, Dmitry, Sokolov, 89161234567, Yekaterinburg
+, Maria, Popova, 89091234567, Kazan
+, Alexey, Kuznetsov, 89171234567, Nizhny Novgorod
+, Olga, Orlova, 89021234567, самара
+, Pavel, Novikov, 89181234567, Rostov-on-Don
+, Igor, Belov, 89193456789, Krasnodar
+, Natalia, Lebedeva, 89051237894, Voronezh
+, Maxim, Vorobev, 891645890, Ufa
+, Yulia, Kozlova, 89039876543, Perm
+, Artem, павлов, 89175678901, Volgograd
